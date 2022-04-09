@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - entry point
-* 
+* main - entry point 
 * prints all single digit numbers of base 16 in lowercase
 * Return: Always 0
 */

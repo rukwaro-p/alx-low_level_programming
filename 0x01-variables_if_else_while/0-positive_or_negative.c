@@ -4,7 +4,7 @@
 
 /**
 * main - entry point
-* 
+*
 * Description:prints a random number and states whether +ve, -ve, or zero
 *
 * Return: Always 0

@@ -2,7 +2,7 @@
 
 /**
 * main - entry point 
-* prints all single digit numbers of base 16 in lowercase
+* Description: prints all single digit numbers of base 16 in lowercase
 * Return: Always 0
 */
 

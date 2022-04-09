@@ -3,10 +3,11 @@
 #include <stdlib.h>
 
 /**
-* main - prints a number and if or not its greater than
+* main - entry point
+* 
+* Description: prints a number and if or not its greater than
 * 5 or less than 6 or zero
-*
-* return: Always 0
+* Return: Always 0
 */
 
 int main(void)
@@ -24,3 +25,4 @@ printf("Last digit of %d is %d %s\n", n, n % 10,
 
 return (0);
 }
+

@@ -3,7 +3,7 @@
 /**
  * print_alphabet - print x10 alphabet in lower case
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 char letter;
 int count = 0;

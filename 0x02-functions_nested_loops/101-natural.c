@@ -2,7 +2,6 @@
 
 /**
  * main - print all natural nums 0 - 1024 mutiples of 3, 5
- * @n:  the num to begin count
  * Return: zero
  */
 int main(void)
